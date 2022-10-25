@@ -1,6 +1,6 @@
 package com.bridgelabz.firstday;
 
-class GivenYearIsLeapYearOrNot {
+class DemonstrationOfStaticVeriableMethodAndBlock {
 	  static int a = 3;// demonstration Static variable
 	  static int b;
 	  // demonstration Static method 
