@@ -1,7 +1,7 @@
 package com.bridgelabz.firstday;
 
 
-public class DefaultValueOfAllPrimitiveDataType{
+public class DefaultValueOfAllPrimitiveDataTypes{
     byte b; //byte is data types
     short s;
     int i;
